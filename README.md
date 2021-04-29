@@ -1,4 +1,4 @@
-#1 Crack IntelliJ
+### CRACK INTELLIJ
 - (Evaluate for free) ->Evaluate
 - Add below code in /etc/hosts 
 
